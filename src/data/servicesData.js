@@ -53,7 +53,7 @@ export const servicesData = {
         points: ['Experienced Vedic Priests', 'Authentic Ritual Procedures', 'Complete Pooja Arrangements', 'Dedicated Customer Support']
      },
      cta: {
-        title: 'Perform sacred Thila Homam rituals in Rameswaram with experienced Vedic priests and receive divine ancestral blessings.',
+        title: 'Perform sacred Sarpa Shanthi rituals in Rameswaram with experienced Vedic priests and receive divine ancestral blessings.',
         buttonText: 'Enquire Now'
      }
   },
@@ -229,11 +229,11 @@ export const servicesData = {
      heroSubtitle: 'Perform the sacred Sarpa Shanthi Pooja in the holy land of Rameswaram to remove the negative effects of planets in your horoscope.',
      heroImage: 'kala_sarpa_hero.jpg',
      overview: {
-        title: 'What is Kaal Sarpa Dosha?',
-        description: 'Kaal Sarpa Dosha is an astrological condition that occurs when all the planets in a person\'s horoscope are positioned between Rahu and Ketu, leading to what is known as the Serpent Yoga. Rameswaram, one of the sacred 12 Jyotirlingas, is considered one of the best places to perform Kaal Sarpa Shanthi. The powerful vibrations and sacred history of the location effectively lift the dosha and bring peace, prosperity, and divine blessings into one\'s life.\n\nThe presence of Sarp Dosha (Naga Dosha) is believed to be the cause of several hardships in life, such as obstacles in marriage, career delays, financial issues, and health problems. This sacred pariharam in Rameswaram clears these karmic debts.',
+        title: 'What is Sarpa Dosha?',
+        description: 'Sarpa Dosha is an astrological condition that occurs when all the planets in a person\'s horoscope are positioned between Rahu and Ketu, leading to what is known as the Serpent Yoga. Rameswaram, one of the sacred 12 Jyotirlingas, is considered one of the best places to perform Sarpa Shanthi. The powerful vibrations and sacred history of the location effectively lift the dosha and bring peace, prosperity, and divine blessings into one\'s life.\n\nThe presence of Sarpa Dosha (Naga Dosha) is believed to be the cause of several hardships in life, such as obstacles in marriage, career delays, financial issues, and health problems. This sacred pariharam in Rameswaram clears these karmic debts.',
         highlights: [
-            { title: 'Kaal Sarpa Shanthi', desc: 'Perform the sacred Kaal Sarpa Shanthi in Rameswaram, one of the holy 12 Jyotirlingas.', icon: 'Flame' },
-            { title: 'Relief from Sarp Dosha', desc: 'Clears the ill effects of Sarp Dosha (Naga Dosha) caused by the affliction of Rahu and Ketu.', icon: 'ShieldCheck' },
+            { title: 'Sarpa Shanthi', desc: 'Perform the sacred Sarpa Shanthi in Rameswaram, one of the holy 12 Jyotirlingas.', icon: 'Flame' },
+            { title: 'Relief from Sarp Dosha', desc: 'Clears the ill effects of Sarpa Dosha (Naga Dosha) caused by the affliction of Rahu and Ketu.', icon: 'ShieldCheck' },
             { title: 'Removes Major Life Obstacles', desc: 'This dosha is primarily known to cause delays in marriage, childless issues, career hurdles, family unrest, and financial losses.', icon: 'Users' },
             { title: 'Prosperity & Health Well-being', desc: 'Brings positive blessings for prosperity, a successful marriage, good health, and family harmony through the sacred Vedic ritual.', icon: 'HeartHandshake' }
         ]
@@ -249,9 +249,9 @@ export const servicesData = {
         ]
      },
      gallery: {
-        title: 'Sacred Moments of Kaal Sarpa Dosh Pooja',
-        subtitle: 'Experience the spiritual significance of Kaal Sarpa Dosh Nivarana Pooja through these sacred moments performed in the holy land of Rameswaram.',
-        images: ['Kala-sarpa-Dosh/ai_homam.jpg', 'Kala-sarpa-Dosh/ai_pooja.jpg', 'Kala-sarpa-Dosh/ai_naga.jpg', 'Kala-sarpa-Dosh/ai_rahu_ketu.jpg']
+        title: 'Sacred Moments of Sarpa Shanthi Pooja',
+        subtitle: 'Experience the spiritual significance of Sarpa Shanthi Pooja through these sacred moments performed in the holy land of Rameswaram.',
+        images: ['Sarpa-Shanthi/image.png', 'Sarpa-Shanthi/image copy.png', 'Sarpa-Shanthi/image copy 2.png', 'Sarpa-Shanthi/image copy 3.png']
      },
      process: {
         title: 'Sarpa Shanthi Pooja Ritual Process',
@@ -267,12 +267,12 @@ export const servicesData = {
      },
      whyChooseUs: {
         title: 'Why Perform Sarpa Shanthi Pooja in Rameswaram?',
-        description: 'Rameswaram is one of the holiest pilgrimage destinations for Hindus and holds immense spiritual significance. It is traditionally believed that a pilgrimage to Rameswaram and the performance of taking a holy bath in the sacred sea and 22 theerthams, followed by paying homage to Lord Shiva, absolves one of their sins. Rameswaram is intrinsically linked to the epic Ramayana and is the place where Lord Rama installed the Shiva Lingam to absolve the sin of brahmahatya (killing a Brahmin, King Ravana) after the war in Lanka.\n\nDevotees come here to perform Kaal Sarpa Dosh Pariharam, Pitru Pooja, Thila Homam, Pinda Tarpanam, Asthi Visarjan Ceremony, and Annual Ancestral Shradh. It is highly believed to relieve karma, doshas (negative astrological influences), Pitru curses, and obstacles in life, seeking the blessings of the Lord.',
-        image: '../Kala-sarpa-Dosh/main.png',
-        points: ['Holy Pilgrimage Destination', 'Sacred Kaal Sarpa Shanthi Pooja Procedures', 'Proven Pariharam for Doshas', 'Remedies for All Types of Sarp/Naga Dosha']
+        description: 'Rameswaram is one of the holiest pilgrimage destinations for Hindus and holds immense spiritual significance. It is traditionally believed that a pilgrimage to Rameswaram and the performance of taking a holy bath in the sacred sea and 22 theerthams, followed by paying homage to Lord Shiva, absolves one of their sins. Rameswaram is intrinsically linked to the epic Ramayana and is the place where Lord Rama installed the Shiva Lingam to absolve the sin of brahmahatya (killing a Brahmin, King Ravana) after the war in Lanka.\n\nDevotees come here to perform Sarpa Shanthi Pariharam, Pitru Pooja, Thila Homam, Pinda Tarpanam, Asthi Visarjan Ceremony, and Annual Ancestral Shradh. It is highly believed to relieve karma, doshas (negative astrological influences), Pitru curses, and obstacles in life, seeking the blessings of the Lord.',
+        image: '../Sarpa-Shanthi/image copy 4.png',
+        points: ['Holy Pilgrimage Destination', 'Sacred Sarpa Shanthi Pooja Procedures', 'Proven Pariharam for Doshas', 'Remedies for All Types of Sarp/Naga Dosha']
      },
      cta: {
-        title: 'Perform sacred Thila Homam rituals in Rameswaram with experienced Vedic priests and receive divine ancestral blessings.',
+        title: 'Perform sacred Sarpa Shanthi rituals in Rameswaram with experienced Vedic priests and receive divine ancestral blessings.',
         buttonText: 'Enquire Now'
      }
   },
@@ -331,3 +331,4 @@ export const servicesData = {
      }
   }
 };
+
