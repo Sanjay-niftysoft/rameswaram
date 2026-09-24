@@ -1,0 +1,77 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --bg-primary: #F8F6F0;
+    --color-primary: #123C3A;
+    --color-gold: #D8B56A;
+    --color-text: #182321;
+    --color-card: #FFFFFF;
+    --color-light: #EEF2ED;
+  }
+
+  body {
+    font-family: 'Poppins', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+    background-color: #F8F6F0;
+    color: #182321;
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+  }
+
+  h1, h2, h3, .font-spiritual {
+    font-family: 'Cormorant Garamond', Georgia, serif;
+  }
+}
+
+.font-serif-spiritual {
+  font-family: 'Cormorant Garamond', Georgia, serif;
+}
+
+.font-cinzel {
+  font-family: 'Cinzel', Georgia, serif;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #F8F6F0;
+}
+::-webkit-scrollbar-thumb {
+  background: #D8B56A;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #123C3A;
+}
+
+@keyframes highlight-card {
+  0%, 100% {
+    transform: translateY(0);
+    box-shadow: 0 4px 24px rgba(0,0,0,0.02);
+    border-color: rgba(216,181,106,0.2);
+  }
+  15% {
+    transform: translateY(-8px);
+    box-shadow: 0 16px 40px rgba(216,181,106,0.25);
+    border-color: rgba(216,181,106,0.8);
+  }
+  30% {
+    transform: translateY(0);
+    box-shadow: 0 4px 24px rgba(0,0,0,0.02);
+    border-color: rgba(216,181,106,0.2);
+  }
+}
+.animate-sequential-0 { animation: highlight-card 10s infinite; animation-delay: 0s; }
+.animate-sequential-1 { animation: highlight-card 10s infinite; animation-delay: 2.5s; }
+.animate-sequential-2 { animation: highlight-card 10s infinite; animation-delay: 5s; }
+.animate-sequential-3 { animation: highlight-card 10s infinite; animation-delay: 7.5s; }
+
+/* Hide Elfsight Watermark */
+[class*="eapps-link"], 
+a[href*="elfsight.com"], 
+.elfsight-app-4e4e4242-fb7a-4d69-ac54-e8554a52b8fe a {
+    display: none !important;
+}

@@ -1,0 +1,49 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /signup/
+Disallow: /cart/
+Disallow: /checkout/
+Disallow: /account/
+Disallow: /api/
+Disallow: /search/
+Disallow: /*?*sort=
+Disallow: /*?*filter=
+Allow: /pooja-homam/
+Allow: /about
+Allow: /gallery
+Allow: /testimonials
+Allow: /contact
+Allow: /
+
+# --- AI assistants / crawlers explicitly allowed ---
+ 
+# OpenAI / ChatGPT
+User-agent: GPTBot
+Allow: /
+ 
+User-agent: OAI-SearchBot
+Allow: /
+ 
+User-agent: ChatGPT-User
+Allow: /
+ 
+# Anthropic / Claude
+User-agent: ClaudeBot
+Allow: /
+ 
+User-agent: Claude-User
+Allow: /
+ 
+User-agent: Claude-SearchBot
+Allow: /
+ 
+# Google / Gemini (AI training + grounding)
+User-agent: Google-Extended
+Allow: /
+ 
+# Microsoft / Copilot (Copilot answers are grounded via Bingbot)
+User-agent: bingbot
+Allow: /
+ 
+Sitemap: https://www.rameswaramthilahomam.com/sitemap.xml
